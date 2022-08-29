@@ -10,3 +10,19 @@
 * Unique-ish CRUD App
 * Use Git for version control
 * Use GitHub to showcase your work
+
+# How to make Developer Portfolio without Experience?
+## Teach the Technology
+* Teach on Udemy
+* Your course is your live portfolio
+* Generate passive income from your online course
+
+## Final Year Project
+* Start Early (4-5th Semester)
+* Publish it
+* I won my first project by the help of my FYP!
+
+## Build Large scale Unique-ish CRUD App 
+* Build Ecommerce App
+* Ecommerce App are evergreen
+* Take design inspiration from dribble
